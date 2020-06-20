@@ -1,1 +1,2 @@
-Hier entsteht gerade eine Webseite zu meinem Lieblingscharakter!
+# GOPHER - Die Geschichte einer 10 jährigen Taschenratte
+
