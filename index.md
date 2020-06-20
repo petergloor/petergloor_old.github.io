@@ -9,3 +9,5 @@ GOPHER ist das Maskottchen, das die Programmiersprache Go seit der Vorstellung v
 * Immer gut drauf
 * Nur selten bissig
 > Reden ist Silber, schweigen ist Go!
+
+![Go Gopher](https://upload.wikimedia.org/wikipedia/commons/f/f0/The_Go_Gopher.jpg)
