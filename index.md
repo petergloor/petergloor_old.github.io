@@ -8,3 +8,4 @@ GOPHER ist das Maskottchen, das die Programmiersprache Go seit der Vorstellung v
 * Unermüdlich
 * Immer gut drauf
 * Nur selten bissig
+> Reden ist Silber, schweigen ist Go!
